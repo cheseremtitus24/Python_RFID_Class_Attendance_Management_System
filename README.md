@@ -1,1 +1,3 @@
-# Python_RFID_Class_Attendance_Management_System
+pyserial
+mysqlclient
+
