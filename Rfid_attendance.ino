@@ -29,6 +29,17 @@ These chips use SPI to communicate, 4 required to interface
 Adafruit invests time and resources providing this open source code, 
 please support Adafruit and open-source hardware by purchasing 
 products from Adafruit!
+
+
+//*********************************************************************************
+
+SPI Connections are
+						PN532_SCK  			(13)
+						PN532_MOSI 			(11)
+						PN532_SS   			(9)
+						PN532_MISO 			(12)
+						PN532_IRQ   		(2)
+						PN532_RESET 		(3) 
 */
 /**************************************************************************/
 #include <Wire.h>
